@@ -22,10 +22,10 @@
 
 ##### GameDev:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title=“Lua” alt=“Lua” width=“50” height=“50”/>&nbsp;
-<img src="https://github.com/love2d/love/blob/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg" title=“Love2d” alt=“Love2d” width=“50” height=“50”/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title=“Unity” alt=“Unity” width=“50” height=“50”/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title=“Godot” alt=“Godot” width=“50” height=“50”/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="50" height="50"/>&nbsp;
+<img src="https://github.com/love2d/love/blob/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg" title="Love2d" alt="Love2d" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="50" height="50"/>&nbsp;
 
 ---
 
