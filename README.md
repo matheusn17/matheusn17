@@ -3,7 +3,7 @@
 - 💻 Estudante de Engenharia da Computação
 - 🕸 Desenvolvedor Web
 - 🎮 GameDev
-- 💼Estagiário na SEDUC-RO
+- 💼 Estagiário na SEDUC-RO
 
 ---
 
