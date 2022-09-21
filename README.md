@@ -1,10 +1,5 @@
-<h3 text-align="center">
-  Oi, tudo bem? Eu sou o Matheus!
-</h3>
 
-<h3 text-align="center">
-  ˶ᵔ ᵕ ᵔ˶ 
-</h3>
+<h3 align="center">Oi, tudo bem? Eu sou o Matheus!<br>˶ᵔ ᵕ ᵔ˶</h3>
 
 ##### Você sabia que eu sou:
 - 💻 Estudante de Engenharia da Computação
