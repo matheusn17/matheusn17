@@ -1,4 +1,11 @@
-### Oi, tudo bem? Eu sou o Matheus! ˶ᵔ ᵕ ᵔ˶ 
+<h3 text-align="center">
+  Oi, tudo bem? Eu sou o Matheus!
+</h3>
+
+<h3 text-align="center">
+  ˶ᵔ ᵕ ᵔ˶ 
+</h3>
+
 ##### Você sabia que eu sou:
 - 💻 Estudante de Engenharia da Computação
 - 🕸 Desenvolvedor Web
