@@ -2,11 +2,9 @@
 <h2 align="center">Oi, tudo bem? Eu sou o Matheus!<br>˶ᵔ ᵕ ᵔ˶</h2>
 
 ##### Você sabia que eu sou:
-- 💻 Estudante de Engenharia da Computação
+- 💻 Engenheiro da Computação
 - 🕸 Desenvolvedor Web
 - 🎮 GameDev
-- 💼 Estagiário na SEDUC-RO
-
 ---
 
 ### 🛠️Linguagens e ferramentas:
@@ -27,17 +25,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-
----
-
-### Status:
-
-<div align="center">
-<a href="https://github.com/matheusn17">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheusn17&show_icons=true&theme=calm&include_all_commits=false&count_private=true"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusn17&langs_count=10&layout=compact&theme=calm&hide=css,hack,scss"/>
-<a/>
-</div>
 
 ---
 
