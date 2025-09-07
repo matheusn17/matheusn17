@@ -44,6 +44,6 @@
 ### Onde me encontrar:
 
 <div>
-<a href = "mailto:matheus.limatiton@gmail.com"><img src="https://img.shields.io/badge/-matheus.limatiton@gmail.com-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:eng.matheustiton@gmail.com"><img src="https://img.shields.io/badge/-eng.matheustiton@gmail.com-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-lima-titon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
